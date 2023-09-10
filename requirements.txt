@@ -1,0 +1,3 @@
+os
+PyMuPDF==1.23.3
+argparse
