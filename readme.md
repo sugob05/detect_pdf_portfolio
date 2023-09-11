@@ -12,10 +12,10 @@ Before using this tool, ensure you have the following prerequisites:
 
 Python 3.x installed on your system.
 The required Python packages installed. You can install them using pip:
-bash
-Copy code
-pip install PyMuPDF argparse
-Usage
+
+`pip install PyMuPDF argparse`
+
+## Usage
 To use the PDF File Analyzer, follow these steps:
 
 Open your terminal or command prompt.
@@ -23,7 +23,6 @@ Open your terminal or command prompt.
 Navigate to the directory containing the script.
 
 Run the script with the following command:
-
 
 `python pdf_file_analyzer.py [source_directory] [target_file]`
 
